@@ -1,0 +1,13 @@
+div {
+    background-color: orange;
+    text-align: center;
+    padding: 2%;
+}
+a {
+    display:inline-block;
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    background-color: blue;
+}
